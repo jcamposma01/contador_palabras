@@ -14,7 +14,7 @@ pseudocodigo
 
 Inicio programa
 //paso 1: Solicitar la entrda al usuario
-Mostrar mensaje "poe favor ingrese una palabra
+Mostrar mensaje "por favor ingrese una palabra"
 definir variable palabra_ingresada con la lectura de la entrada
 
 //paso 2:contar la cantidad de letras 
